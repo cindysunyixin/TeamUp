@@ -1,2 +1,3 @@
 # TeamUp
-test repo for Junior Design Team PKLAY
+test repo for Junior Design Team PKLAY presentation
+
